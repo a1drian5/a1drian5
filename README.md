@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/main/assets/banner.png" alt="Adrian Euan | Mobile Developer" width="100%" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Adrian Euan</h1>
 <h3 align="center">Senior Mobile Developer (Android & iOS)</h3>
@@ -42,27 +38,25 @@ Currently exploring **Compose Multiplatform**, **Ktor**, and **modern design sys
 
 ### 📱 Featured Projects
 
-#### 💳 **Square Payments App**
+
+### 💳 **Square Payments App**
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.squareup" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/2Eo1D5mYc2Myd47OX7eJvFFVygx5vCd3F7rTcf3nTdC2j3fJZP0X5X_3SOFvEZlOAw=w480-h960" width="45%" />
-    <img src="https://play-lh.googleusercontent.com/W_J1t1W9U7h6m5m3xCItPUczR3K3QYhRgnKqSdL2PWR4wAOQFh5uP-J61_3i9yL4IQ=w480-h960" width="45%" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/a23ae0ce-e499-4ecb-ad82-5339ef1444a0" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f6018f26-aff5-4e0d-ab5d-7ba246a1e095" width="45%" />
 </p>
 
-A global **payments and business management platform** enabling seamless transactions and analytics for vendors.  
-Contributed to **Android security modules**, **iOS Swift components**, and overall **performance optimization** for enterprise releases.  
-Built using **Kotlin + Swift + MVVM + Retrofit + Firebase**, with strong **CI/CD** and **QA automation** practices across both platforms.  
+A global **payments and business management platform** enabling seamless transactions, analytics, and inventory control for millions of users.  
+Contributed to **Android security modules**, **Swift-based iOS components**, and overall **performance optimization** for enterprise deployments.  
+Developed using **Kotlin (Android)** and **Swift (iOS)** with **MVVM**, **Retrofit**, and **Firebase**, ensuring compliance with **App Store** and **Play Store** standards and automated CI/CD integration.  
 → [View on Google Play](https://play.google.com/store/apps/details?id=com.squareup)
 
 ---
 
-#### 🩺 **Aesthetic Points (Patient App)**
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.aestheticpoints.patient" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/VsL6TtYxgKZlGnB5yOGo5drbXcUnsvB8e8S7p2sl9S1rd5MmuM8EE_TY5EPv4XbHgA=w480-h960" width="45%" />
-    <img src="https://play-lh.googleusercontent.com/YyDgxJbq2e3m5eTKfJ2n9JtCCzD2VY5IQPK8eE_XT-7EItL5ogPuE0g0s8hNRHhtIQ=w480-h960" width="45%" />
-  </a>
+### 🩺 **Aesthetic Points (Patient App)**
+
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/c80e10ee-5180-425b-ac9d-e3aedf27600f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/3defd0d3-2908-4e9f-b78a-cbe65d7c18e1" width="45%" />
 </p>
 
 A cross-platform **medical and aesthetic management app** that allows patients to manage appointments, treatments, and loyalty points on both **Android and iOS**.  
@@ -70,45 +64,41 @@ Developed using **Kotlin (Android)** and **Swift (iOS)** following **Clean Archi
 → [View on Google Play](https://play.google.com/store/apps/details?id=com.aestheticpoints.patient)
 
 ---
-
-#### 🚗 **Bepensa App**
+### 🚗 **Bepensa App**
 <p align="center">
-  <a href="https://play.google.com/store/search?q=bepensa+app&c=apps" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/HSdDf6c2JzvPiYq0ZzF8qZh35R6IhLq3Swh-KY5sXVN7SICq4fP9n-9T-0L4pJQxt8g=w480-h960" width="45%" />
-    <img src="https://play-lh.googleusercontent.com/UdVFu9JYxKq7ayHw59zG-m8xMQ1BvAoF62xYfTAvPOpdZqRXq5q5iQ-8lV9RC3Y6Uw=w480-h960" width="45%" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/49a8eef0-eaa4-4d1a-a79e-9230a5207367" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d1854284-8ac7-410d-8540-d720f72f385f" width="45%" />
 </p>
 
-An **enterprise mobility solution** for Bepensa (Coca-Cola distributor), used for logistics, inventory, and route management.  
-Worked on **networking modules, offline persistence**, and UI improvements for thousands of daily users.  
+An **enterprise mobility platform** developed for **Bepensa (Coca-Cola distributor)**, designed to streamline **logistics, route management, and inventory control**.  
+Contributed to the development of **networking modules**, **offline synchronization**, and **UI/UX optimizations** for thousands of daily users in the field.  
+Built with **Kotlin + MVVM + Retrofit + Room**, following **clean architecture** principles to ensure scalability and performance.  
 → [View on Google Play](https://play.google.com/store/search?q=bepensa+app&c=apps)
 
 ---
 
-#### 💰 **FinBe (Resser Móvil)**
+### 📍 **FinBe Track (Resser Móvil)**
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.resser.movil.finbe" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/QP9e4uFh9EC6W0y6bmfQZKjZZ8bR7M9q0lWcdGog9zvItZ2v4eyh7AaVAnm0FKHg6A=w480-h960" width="45%" />
-    <img src="https://play-lh.googleusercontent.com/XC6EtP9TDRQzB2lMYbDrW1e2x5YrDpYvXzj7Wl8i1sOmYV3CKp7vV6cL7KnM9e2eFg=w480-h960" width="45%" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/b49d1875-121f-46d0-b6ef-dcbbf2f150f6" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c75dbad4-37b8-4a39-a5ae-9ae48e48a843" width="45%" />
 </p>
 
-A **financial and microloan application** for managing credit, payments, and account balance in real time.  
-Developed using **Kotlin, Jetpack Compose, and Room**, implementing **secure APIs** and robust **data encryption**.  
+An **enterprise tracking and logistics application** for field agents and coordinators at **FinBe**.  
+The app allows real-time **route tracking**, **visit scheduling**, and **performance reporting**, integrating secure communication between mobile devices and backend systems.  
+Developed with **Kotlin + Jetpack Compose + Room**, and integrated with **REST APIs** and **encrypted data synchronization** for reliability in offline environments.  
 → [View on Google Play](https://play.google.com/store/apps/details?id=com.resser.movil.finbe)
+
 
 ---
 
-#### 🎬 **Movie Explorer App**
+### 🎬 **Movie Explorer App**
 <p align="center">
-  <a href="https://github.com/a1drian5/Android_native_exercise" target="_blank">
-    <img src="https://github.com/a1drian5/Android_native_exercise/blob/main/assets/preview1.png" width="45%" />
-    <img src="https://github.com/a1drian5/Android_native_exercise/blob/main/assets/preview2.png" width="45%" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/657144d7-3e2d-413f-8d88-726a36ab45e0" width="45%" />
+  <img src="https://github.com/user-attachments/assets/bea0370d-ba08-4754-9e2b-0cefe55ffc90" width="45%" />
 </p>
 
 A personal project showcasing **modern Android architecture** using **Jetpack Compose**, **Clean Architecture**, and **Coroutines**.  
-Fetches and displays movie data from an open API with **offline caching** and smooth animated UI transitions.  
+Fetches and displays movie data from a public API with **offline caching**, **search filtering**, and smooth animated UI transitions.  
 → [View on GitHub](https://github.com/a1drian5/Android_native_exercise)
 
 ---
