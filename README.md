@@ -51,8 +51,8 @@ Currently exploring **Compose Multiplatform**, **Ktor**, and **modern design sys
 </p>
 
 A global **payments and business management platform** enabling seamless transactions and analytics for vendors.  
-Contributed to **Android security modules and performance optimization** for enterprise releases.  
-Built using **Kotlin + MVVM + Retrofit + Firebase** with strong **CI/CD and QA automation** practices.  
+Contributed to **Android security modules**, **iOS Swift components**, and overall **performance optimization** for enterprise releases.  
+Built using **Kotlin + Swift + MVVM + Retrofit + Firebase**, with strong **CI/CD** and **QA automation** practices across both platforms.  
 → [View on Google Play](https://play.google.com/store/apps/details?id=com.squareup)
 
 ---
@@ -65,8 +65,8 @@ Built using **Kotlin + MVVM + Retrofit + Firebase** with strong **CI/CD and QA a
   </a>
 </p>
 
-A cross-platform **medical and aesthetic management app** that allows patients to manage appointments, treatments, and loyalty points.  
-Built with **Kotlin, Firebase, Retrofit**, and **Clean Architecture**, integrating secure authentication and cloud synchronization.  
+A cross-platform **medical and aesthetic management app** that allows patients to manage appointments, treatments, and loyalty points on both **Android and iOS**.  
+Developed using **Kotlin (Android)** and **Swift (iOS)** following **Clean Architecture** principles, integrated with **Firebase** for secure authentication and real-time synchronization.  
 → [View on Google Play](https://play.google.com/store/apps/details?id=com.aestheticpoints.patient)
 
 ---
